@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=kaleblub.pythonanywhere.com&style=for-the-badge&url=https%3A%2F%2Fkaleblub.pythonanywhere.com)](http://kaleblub.pythonanywhere.com/)
 
-## I'm a Husband, Coder, Developer, and 
+## I'm a Husband, Coder, Developer, and CTF Enthusiast.
 
 - :wrench: I'm currently working on finishing my [portfolio website](https://kaleblub.pythonanywhere.com/).
 - :joystick: I'm also working on personal Pygame projects to grow my skills and knowledge of Python :snake:
