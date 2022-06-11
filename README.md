@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=kaleblub.pythonanywhere.com&style=for-the-badge&url=https%3A%2F%2Fkaleblub.pythonanywhere.com)](http://kaleblub.pythonanywhere.com/)
 
-## I'm a Husband, Coder, Developer, and CTF Enthusiast.
+## I'm a Coder, Developer, and CTF Enthusiast.
 
 - :wrench: I'm currently working on finishing my [portfolio website](https://kaleblub.pythonanywhere.com/).
 - :joystick: I'm also working on personal Pygame projects to grow my skills and knowledge of Python :snake:
-- :seedling: My 2021 goals are to finalize my personal website and fill it with some personal projects.
+- :seedling: My 2022 goals are to finalize my personal website and fill it with some personal projects.
 - :handshake: I’m looking to collaborate on any projects someone may need help with, I am eager to learn new things all the time. :nerd_face:
 - :eyes: I’m interested in anything in the field of computer science :computer:, programming :man_technologist:, app development :iphone:, networking :signal_strength:, penetration testing :pirate_flag:, I love it all. :star_struck:
 
