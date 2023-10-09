@@ -1,10 +1,10 @@
-### Hello, I am Kaleb - [kaleblub](https://kalebhumpal.dev/) 👋
+### Hello, I am Kaleb - [kaleblub](https://kalebhumpal.dev/about) 👋
 
-[![Website](https://img.shields.io/website?label=kaleblub.pythonanywhere.com&style=for-the-badge&url=https%3A%2F%2Fkaleblub.pythonanywhere.com)](http://kaleblub.pythonanywhere.com/)
+[![Website](https://img.shields.io/website?label=kalebhumpal.dev&style=for-the-badge&url=https%3A%2F%kalebhumpal.dev)](http://kalebhumpal.dev/)
 
 ## I'm a Coder, Developer, and CTF Enthusiast.
 
-- :wrench: I'm currently working on finishing my [portfolio website](https://kaleblub.pythonanywhere.com/).
+- :wrench: I'm currently working on finishing my [portfolio website](https://kalebhumpal.dev/).
 - :joystick: I'm also working on personal Pygame projects to grow my skills and knowledge of Python :snake:
 - :seedling: My 2022 goals are to finalize my personal website and fill it with some personal projects.
 - :handshake: I’m looking to collaborate on any projects someone may need help with, I am eager to learn new things all the time. :nerd_face:
