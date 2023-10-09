@@ -1,6 +1,6 @@
 ### Hello, I am Kaleb - [kaleblub](https://kalebhumpal.dev/about) 👋
 
-[![Website](https://img.shields.io/website?label=kalebhumpal.dev&style=for-the-badge&url=https%3A%2F%kalebhumpal.dev)](http://kalebhumpal.dev/)
+[![Website](https://img.shields.io/website?label=kalebhumpal.dev&style=for-the-badge&url=https%3A%2F%kalebhumpal.dev)](https://kalebhumpal.dev/)
 
 ## I'm a Coder, Developer, and CTF Enthusiast.
 
