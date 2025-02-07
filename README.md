@@ -1,13 +1,16 @@
-### Hello, I am Kaleb - [kaleblub](https://kalebhumpal.dev/about) 👋
+# Hello, I am Kaleb - [kaleblub](https://kalebhumpal.dev/about) 👋
+### CEO | Web Developer - [404 Studio LLC](https://404studio.net/)
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkalebhumpal.dev%2F&style=for-the-badge&label=kalebhumpal.dev&link=kalebhumpal.dev)
+![Website](https://img.shields.io/website?url=https%3A%2F%2F404studio.net%2F&style=for-the-badge&label=404studio.net&link=404studio.net)
 
 
-## I'm a Coder, Developer, and CTF Enthusiast.
+
+## I'm a Developer, Business Owner, and CTF Hobbyist.
 
 - :wrench: I'm currently working on some Django websites for a few clients.
-- :black_nib: I'm regularly publishing new tech articles on [portfolio website](https://kalebhumpal.dev/blog).
-- :seedling: In 2024, I aspire to complete several more websites for businesses to hone my Django and Front-end skills and make a positive impact on clients. Additionally, I'm actively seeking opportunities in the industry to further advance my career.
+<!--- - :black_nib: I'm regularly publishing new tech articles on [portfolio website](https://kalebhumpal.dev/blog).
+- :seedling: In 2024, I aspire to complete several more websites for businesses to hone my Django and Front-end skills and make a positive impact on clients. Additionally, I'm actively seeking opportunities in the industry to further advance my career.--->
 - :handshake: I’m looking to collaborate on any projects someone may need help with, I am eager to learn new things all the time. :nerd_face:
 - :eyes: I’m interested in anything in the field of computer science :computer:, programming :man_technologist:, app development :iphone:, networking :signal_strength:, penetration testing :pirate_flag:, I love it all. :star_struck:
 
