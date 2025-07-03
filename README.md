@@ -1,9 +1,9 @@
-# Hello, I am Kaleb - [kaleblub](https://kalebhumpal.dev/about) 👋
+# Hello, I am Kaleb 👋
+<!--- - [kaleblub](https://kalebhumpal.dev/about)--->
 ### CEO | Web Developer - [404 Studio LLC](https://404studio.net/)
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fkalebhumpal.dev%2F&style=for-the-badge&label=kalebhumpal.dev&link=kalebhumpal.dev)
-![Website](https://img.shields.io/website?url=https%3A%2F%2F404studio.net%2F&style=for-the-badge&label=404studio.net&link=404studio.net)
-
+<!--- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkalebhumpal.dev%2F&style=for-the-badge&label=kalebhumpal.dev&link=kalebhumpal.dev)
+![Website](https://img.shields.io/website?url=https%3A%2F%2F404studio.net%2F&style=for-the-badge&label=404studio.net&link=404studio.net)--->
 
 
 ## I'm a Developer, Business Owner, and CTF Hobbyist.
@@ -15,7 +15,7 @@
 - :eyes: I’m interested in anything in the field of computer science :computer:, programming :man_technologist:, app development :iphone:, networking :signal_strength:, penetration testing :pirate_flag:, I love it all. :star_struck:
 
 ### How To Contact Me:
-- [Website](kalebhumpal.dev)
+- [Website](404studio.net)
 - [Email]([contact])
 - [LinkedIn]([linkedin])
 
@@ -29,11 +29,11 @@
 - SQL <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 ### Frameworks:
-- Django <img alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 - Flask <img alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+- Django <img alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 ### Tools:
-- Terminal <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- Linux <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 - Git <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 - Github<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
@@ -44,7 +44,7 @@
 kaleblub/kaleblub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[website]: https://kalebhumpal.dev
+[website]: https://404studio.net
 [linkedin]: https://linkedin.com/in/kalebhumpal
-[contact]: https://kalebhumpal.dev/contact/
+[contact]: https://404studio.net/contact/
 
