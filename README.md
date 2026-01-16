@@ -14,11 +14,6 @@
 - :handshake: I’m looking to collaborate on any projects someone may need help with, I am eager to learn new things all the time. :nerd_face:
 - :eyes: I’m interested in anything in the field of computer science :computer:, programming :man_technologist:, app development :iphone:, networking :signal_strength:, penetration testing :pirate_flag:, I love it all. :star_struck:
 
-### How To Contact Me:
-- [Website](404studio.net)
-- [Email]([contact])
-- [LinkedIn]([linkedin])
-
 <br />
 
 ### Languages:
@@ -38,13 +33,3 @@
 - Github<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-
-
-<!---
-kaleblub/kaleblub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[website]: https://404studio.net
-[linkedin]: https://linkedin.com/in/kalebhumpal
-[contact]: https://404studio.net/contact/
-
