@@ -16,7 +16,6 @@
 
 ### How To Contact Me:
 - [Website](404studio.net)
-- [Email]([contact])
 - [LinkedIn]([linkedin])
 
 <br />
