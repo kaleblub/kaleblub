@@ -1,6 +1,6 @@
 # Hello, I am Kaleb 👋
 <!--- - [kaleblub](https://kalebhumpal.dev/about)--->
-### CEO | Web Developer - [404 Studio LLC](https://404studio.net/)
+### CEO | Web Developer - 404 Studio LLC
 
 <!--- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkalebhumpal.dev%2F&style=for-the-badge&label=kalebhumpal.dev&link=kalebhumpal.dev)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2F404studio.net%2F&style=for-the-badge&label=404studio.net&link=404studio.net)--->
